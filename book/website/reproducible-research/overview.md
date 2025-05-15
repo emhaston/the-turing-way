@@ -20,7 +20,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 Scientific results and evidence are strengthened if those results can be replicated and confirmed by several independent researchers (see {ref}`definitions <rr-overview-definitions>`).
 
 When researchers employ transparency in their research - in other words, when they properly document and share the data and processes associated with their analyses - the broader research community is able to save valuable time when reproducing or building upon published results. 
-Often, data or code from prior projects will be re-used by new researchers to verify old findings or develop new analyses. 
+Often, data or code from prior projects will be re-used by new researchers to verify old findings or develop new analyses. Effective digital preservation of data and software (including websites) will ensure that resources remain accessible.
 
 Learn about some of the other benefits of reproducible research in the {ref}`Added Advantages <rr-overview-benefits>` subchapter.
 

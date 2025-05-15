@@ -28,8 +28,8 @@ Open research aims to transform research by making it more reproducible, transpa
 
 Schematically, the research process has the following form: data are collected and then analysed (often using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process, it is good practice for researchers to document their work. This can happen in notebooks or other forms of documentation. For experimental studies, Electronic Lab Notebooks are common. Open research aims to make each of these elements open:
 
-- _Open Data_: Documenting and sharing research data openly for re-use.
-- _Open Source Software_: Documenting research code and routines, and making them freely accessible and available.
+- _Open Data_: Documenting, preserving and sharing research data openly for re-use.
+- _Open Source Software_: Documenting research code and routines, preserving them and making them freely accessible and available.
 - _Open Hardware_: Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
 - _Open Access_: Making all published outputs freely accessible for maximum use and impact.
 - _Open Notebooks_: An emerging practice, documenting and sharing the experimental process of trial and error.

@@ -88,6 +88,7 @@ Examples include [Linux](https://www.linux.org/) operating systems, Python packa
 
 You can open source an idea, a work in progress, or after years of being closed source.
 At the most basic level, all you need to do is put your code online somewhere that is likely to last a long time.
+Bringing any software into the project's digital preservation plan will help ensure that long-term accessibility is considered from the outset.
 You can make your code citeable by assigning it a DOI [{term}`def<Digital Object Identifier>`] (as discussed in the section on {ref}`rr-rdm-sharing`).
 This helps ensure that you get proper credit if people use or build upon your work.
 

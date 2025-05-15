@@ -19,6 +19,7 @@ Data here is used as a generic term to encompass all digital objects.
 RDM is a vital part of enabling reproducible research.
 RDM ensures efficiency in research workflows, and also greater reach and impact, as data become {ref}`FAIR <rr-rdm-fair>` (Findable, Accessible, Interoperable and Reusable).
 Data should be stored in multiple locations and backed-up regularly to prevent loss or data corruption.
+These processes will be part of a digital preservation plan.
 Clearly describing data using documentation and metadata ensures that others know how to access, use and reuse your data, and also enable conditions for sharing and publishing data to be outlined.
 
 ```{figure} ../figures/data-ecosystem.*
